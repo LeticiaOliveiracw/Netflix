@@ -240,5 +240,16 @@
         app:layout_constraintTop_toTopOf="@+id/imageView3"
         app:srcCompat="@drawable/theflash" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:text="Leticia de Oliveira Passos"
+        android:textColor="@color/menu_navegacao"
+        app:layout_constraintEnd_toStartOf="@+id/guidelineDireita"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/guidelineEsquerda"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
