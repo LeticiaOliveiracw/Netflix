@@ -246,7 +246,7 @@
         android:layout_marginTop="52dp"
         android:text="Leticia de Oliveira Passos"
         android:textColor="@color/menu_navegacao"
-        app:layout_constraintEnd_toStartOf="@+id/guidelineDireita"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/guidelineEsquerda"
         app:layout_constraintTop_toBottomOf="@+id/imageView3" />
